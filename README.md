@@ -4,7 +4,7 @@ Aplicación de consola desarrollada en **Java 21** con **Spring Boot** y **Maven
 
 ## 👤 Autor
 
-Eric Herrera Romero
+### Eric Herrera Romero
 
 ---
 
